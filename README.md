@@ -10,7 +10,6 @@ a passionate junior web developer specializing in the JavaScript stack. With a s
 <br/>
 
 #  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tamim-01&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tamim-01&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
