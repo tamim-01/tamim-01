@@ -1,4 +1,7 @@
-# About Me:
+
+# web developer
+
+# About:
 a passionate junior web developer specializing in the JavaScript stack. With a strong foundation in modern web technologies like React, Node.js, and Express, I thrive on building dynamic, user-friendly applications. I’m currently honing my skills in full-stack development, diving into best practices for clean, scalable code. Eager to transition from personal projects to real-world impact, I’m actively seeking my first internship or work experience to collaborate with teams, learn from industry professionals, and contribute to meaningful projects. Let’s connect and create something awesome together! 💻✨
 
 
