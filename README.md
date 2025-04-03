@@ -16,9 +16,3 @@ a passionate junior web developer specializing in the JavaScript stack. With a s
 
 ![](https://nirzak-streak-stats.vercel.app/?user=tamim-01&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamim-01&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamim-01/tamim-01/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tamim-01/tamim-01/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tamim-01/tamim-01/output/github-snake.svg" />
-</picture>
