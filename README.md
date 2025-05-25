@@ -1,4 +1,4 @@
-# Tamim
+
 <a href="https://wakatime.com/@cc6a4aae-3488-436c-a5be-f98bf66691fe"><img src="https://wakatime.com/badge/user/cc6a4aae-3488-436c-a5be-f98bf66691fe.svg" alt="Total time coded since Jan 19 2025" /></a>
 
 # Stack
